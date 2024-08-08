@@ -1,3 +1,5 @@
+Outcome of Strategy :- Capital Deployed on trade gets 2x within 5 mins on options having 5 min expiry in CFTC Regulated Exchanges
+
 Here's a well-structured documentation for the TRUEALPHA-HFX-V1 Point System:
 
 ---
